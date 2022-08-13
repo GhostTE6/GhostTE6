@@ -1,5 +1,2 @@
-BiliBili @幽瞳GhostTE6
-<!---
-GhostTE6/GhostTE6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 一些个人信息♪
+BiliBili [@幽瞳GhostTE6](https://space.bilibili.com/294996792)
